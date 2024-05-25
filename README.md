@@ -1,4 +1,4 @@
-# CODSOFT 1
+# CODSOFT TASK 1
 TASK 1
 JAVA PROGRAMMING
 1. Generate a random number within a specified range, such as 1 to 100.
